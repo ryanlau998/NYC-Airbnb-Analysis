@@ -8,7 +8,7 @@ const url = "https://public.tableau.com/views/AirbnbNYCAnalysisv2/AirbnbNYCAnaly
 const vizContainer = document.getElementById('vizContainer');
 const options = {
     hideTabs: true,
-    height: 1000,
+    height: 800,
     width: 3000,
     onFirstInteraction: function() {
         workbook = viz.getWorkbook();

@@ -13,3 +13,4 @@ Then, I retrieved data from Inside Airbnb about Airbnb listings in 5 boroughs. D
 
 I cleaned the datasets taking out unrelated columns and duplicates. Put them into visuals in Tableau. 
 
+Click [here](https://github.com/ryanlau998/NYC-Airbnb-Analysis/blob/main/airbnb_data_analysis.ipynb) to check out the Jupyter Notebook.
